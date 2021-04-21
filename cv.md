@@ -6,3 +6,5 @@
 ## education
 ### BNTU 2011-2016 Bachelor of mechanical engineering technology
 ### RS.school «Разработка приложений для iOS» 2021-present
+## english
+### A1-A2
